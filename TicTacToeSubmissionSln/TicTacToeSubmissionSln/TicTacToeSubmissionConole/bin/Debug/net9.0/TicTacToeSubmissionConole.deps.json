@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "TicTacToeSubmissionConole/1.0.0": {
+        "dependencies": {
+          "TicTacToeRendererLib": "1.0.0.0"
+        },
+        "runtime": {
+          "TicTacToeSubmissionConole.dll": {}
+        }
+      },
+      "TicTacToeRendererLib/1.0.0.0": {
+        "runtime": {
+          "TicTacToeRendererLib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TicTacToeSubmissionConole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TicTacToeRendererLib/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

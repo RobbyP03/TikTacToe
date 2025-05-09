@@ -1,0 +1,17 @@
+C:\Users\apead\Downloads\TicTacToeSubmissionSln\TicTacToeSubmissionSln\TicTacToeSubmissionConole\bin\Debug\net9.0\TicTacToeSubmissionConole.exe
+C:\Users\apead\Downloads\TicTacToeSubmissionSln\TicTacToeSubmissionSln\TicTacToeSubmissionConole\bin\Debug\net9.0\TicTacToeSubmissionConole.deps.json
+C:\Users\apead\Downloads\TicTacToeSubmissionSln\TicTacToeSubmissionSln\TicTacToeSubmissionConole\bin\Debug\net9.0\TicTacToeSubmissionConole.runtimeconfig.json
+C:\Users\apead\Downloads\TicTacToeSubmissionSln\TicTacToeSubmissionSln\TicTacToeSubmissionConole\bin\Debug\net9.0\TicTacToeSubmissionConole.dll
+C:\Users\apead\Downloads\TicTacToeSubmissionSln\TicTacToeSubmissionSln\TicTacToeSubmissionConole\bin\Debug\net9.0\TicTacToeSubmissionConole.pdb
+C:\Users\apead\Downloads\TicTacToeSubmissionSln\TicTacToeSubmissionSln\TicTacToeSubmissionConole\bin\Debug\net9.0\TicTacToeRendererLib.dll
+C:\Users\apead\Downloads\TicTacToeSubmissionSln\TicTacToeSubmissionSln\TicTacToeSubmissionConole\obj\Debug\net9.0\TicTacToeSubmissionConole.csproj.AssemblyReference.cache
+C:\Users\apead\Downloads\TicTacToeSubmissionSln\TicTacToeSubmissionSln\TicTacToeSubmissionConole\obj\Debug\net9.0\TicTacToeSubmissionConole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apead\Downloads\TicTacToeSubmissionSln\TicTacToeSubmissionSln\TicTacToeSubmissionConole\obj\Debug\net9.0\TicTacToeSubmissionConole.AssemblyInfoInputs.cache
+C:\Users\apead\Downloads\TicTacToeSubmissionSln\TicTacToeSubmissionSln\TicTacToeSubmissionConole\obj\Debug\net9.0\TicTacToeSubmissionConole.AssemblyInfo.cs
+C:\Users\apead\Downloads\TicTacToeSubmissionSln\TicTacToeSubmissionSln\TicTacToeSubmissionConole\obj\Debug\net9.0\TicTacToeSubmissionConole.csproj.CoreCompileInputs.cache
+C:\Users\apead\Downloads\TicTacToeSubmissionSln\TicTacToeSubmissionSln\TicTacToeSubmissionConole\obj\Debug\net9.0\TicTacTo.E20F76A6.Up2Date
+C:\Users\apead\Downloads\TicTacToeSubmissionSln\TicTacToeSubmissionSln\TicTacToeSubmissionConole\obj\Debug\net9.0\TicTacToeSubmissionConole.dll
+C:\Users\apead\Downloads\TicTacToeSubmissionSln\TicTacToeSubmissionSln\TicTacToeSubmissionConole\obj\Debug\net9.0\refint\TicTacToeSubmissionConole.dll
+C:\Users\apead\Downloads\TicTacToeSubmissionSln\TicTacToeSubmissionSln\TicTacToeSubmissionConole\obj\Debug\net9.0\TicTacToeSubmissionConole.pdb
+C:\Users\apead\Downloads\TicTacToeSubmissionSln\TicTacToeSubmissionSln\TicTacToeSubmissionConole\obj\Debug\net9.0\TicTacToeSubmissionConole.genruntimeconfig.cache
+C:\Users\apead\Downloads\TicTacToeSubmissionSln\TicTacToeSubmissionSln\TicTacToeSubmissionConole\obj\Debug\net9.0\ref\TicTacToeSubmissionConole.dll
