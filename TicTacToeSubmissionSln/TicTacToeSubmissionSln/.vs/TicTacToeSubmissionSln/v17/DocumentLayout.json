@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\apead\\Downloads\\TicTacToeSubmissionSln\\TicTacToeSubmissionSln\\",
+  "WorkspaceRootPath": "C:\\Users\\robin\\Documents\\Learning\\Assigment5\\TicTacToeSubmissionSln\\TicTacToeSubmissionSln\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{373A6AFE-5DAE-4879-8927-D58304E31A10}|TicTacToeSubmissionConole\\TicTacToeSubmissionConole.csproj|c:\\users\\apead\\downloads\\tictactoesubmissionsln\\tictactoesubmissionsln\\tictactoesubmissionconole\\tictactoesubmissionconole.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{373A6AFE-5DAE-4879-8927-D58304E31A10}|TicTacToeSubmissionConole\\TicTacToeSubmissionConole.csproj|solutionrelative:tictactoesubmissionconole\\tictactoesubmissionconole.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{373A6AFE-5DAE-4879-8927-D58304E31A10}|TicTacToeSubmissionConole\\TicTacToeSubmissionConole.csproj|c:\\users\\robin\\documents\\learning\\assigment5\\tictactoesubmissionsln\\tictactoesubmissionsln\\tictactoesubmissionconole\\tictactoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{373A6AFE-5DAE-4879-8927-D58304E31A10}|TicTacToeSubmissionConole\\TicTacToeSubmissionConole.csproj|solutionrelative:tictactoesubmissionconole\\tictactoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{373A6AFE-5DAE-4879-8927-D58304E31A10}|TicTacToeSubmissionConole\\TicTacToeSubmissionConole.csproj|c:\\users\\robin\\documents\\learning\\assigment5\\tictactoesubmissionsln\\tictactoesubmissionsln\\tictactoesubmissionconole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{373A6AFE-5DAE-4879-8927-D58304E31A10}|TicTacToeSubmissionConole\\TicTacToeSubmissionConole.csproj|solutionrelative:tictactoesubmissionconole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,42 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{53d10d51-d2d8-3452-ab88-12f687ed0782}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TicTacToeSubmissionConole",
-              "DocumentMoniker": "C:\\Users\\apead\\Downloads\\TicTacToeSubmissionSln\\TicTacToeSubmissionSln\\TicTacToeSubmissionConole\\TicTacToeSubmissionConole.csproj",
-              "RelativeDocumentMoniker": "TicTacToeSubmissionConole\\TicTacToeSubmissionConole.csproj",
-              "ToolTip": "C:\\Users\\apead\\Downloads\\TicTacToeSubmissionSln\\TicTacToeSubmissionSln\\TicTacToeSubmissionConole\\TicTacToeSubmissionConole.csproj",
-              "RelativeToolTip": "TicTacToeSubmissionConole\\TicTacToeSubmissionConole.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-08T06:08:12.212Z",
+              "Title": "TicTacToe.cs",
+              "DocumentMoniker": "C:\\Users\\robin\\Documents\\Learning\\Assigment5\\TicTacToeSubmissionSln\\TicTacToeSubmissionSln\\TicTacToeSubmissionConole\\TicTacToe.cs",
+              "RelativeDocumentMoniker": "TicTacToeSubmissionConole\\TicTacToe.cs",
+              "ToolTip": "C:\\Users\\robin\\Documents\\Learning\\Assigment5\\TicTacToeSubmissionSln\\TicTacToeSubmissionSln\\TicTacToeSubmissionConole\\TicTacToe.cs*",
+              "RelativeToolTip": "TicTacToeSubmissionConole\\TicTacToe.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAvwBkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T09:40:20.009Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 490,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\robin\\Documents\\Learning\\Assigment5\\TicTacToeSubmissionSln\\TicTacToeSubmissionSln\\TicTacToeSubmissionConole\\Program.cs",
+              "RelativeDocumentMoniker": "TicTacToeSubmissionConole\\Program.cs",
+              "ToolTip": "C:\\Users\\robin\\Documents\\Learning\\Assigment5\\TicTacToeSubmissionSln\\TicTacToeSubmissionSln\\TicTacToeSubmissionConole\\Program.cs",
+              "RelativeToolTip": "TicTacToeSubmissionConole\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAvwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T09:35:54.202Z",
+              "EditorCaption": ""
             }
           ]
         }
