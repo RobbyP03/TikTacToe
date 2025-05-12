@@ -14,7 +14,7 @@
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 100,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "TicTacToeSubmissionConole\\TicTacToe.cs",
               "ToolTip": "C:\\Users\\robin\\Documents\\Learning\\Assigment5\\TicTacToeSubmissionSln\\TicTacToeSubmissionSln\\TicTacToeSubmissionConole\\TicTacToe.cs*",
               "RelativeToolTip": "TicTacToeSubmissionConole\\TicTacToe.cs*",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAvwBkAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAEwCYAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-09T09:40:20.009Z",
               "EditorCaption": ""
@@ -41,10 +41,9 @@
               "RelativeDocumentMoniker": "TicTacToeSubmissionConole\\Program.cs",
               "ToolTip": "C:\\Users\\robin\\Documents\\Learning\\Assigment5\\TicTacToeSubmissionSln\\TicTacToeSubmissionSln\\TicTacToeSubmissionConole\\Program.cs",
               "RelativeToolTip": "TicTacToeSubmissionConole\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAvwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T09:35:54.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-09T09:35:54.202Z"
             }
           ]
         }
