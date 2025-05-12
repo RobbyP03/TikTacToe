@@ -15,7 +15,7 @@ namespace TicTacToeSubmissionConole
             var ticTacToe = new TicTacToe();
 
             ticTacToe.Run();
-
+          
 
             Console.ForegroundColor = oldColor ;
 
