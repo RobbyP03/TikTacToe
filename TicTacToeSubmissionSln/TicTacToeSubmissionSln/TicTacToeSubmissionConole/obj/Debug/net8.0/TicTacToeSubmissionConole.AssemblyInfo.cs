@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TicTacToeSubmissionConole")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cd7bf580f1297a52ec50ed898ba57de9d722052")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd3a8e4e1c06eb246e05cc6a0eef835f2babd392")]
 [assembly: System.Reflection.AssemblyProductAttribute("TicTacToeSubmissionConole")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TicTacToeSubmissionConole")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
